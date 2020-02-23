@@ -13,6 +13,7 @@
 		544B630C2402773500F86DDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544B630A2402773500F86DDC /* Main.storyboard */; };
 		544B630E2402773500F86DDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 544B630D2402773500F86DDC /* Assets.xcassets */; };
 		544B63112402773500F86DDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544B630F2402773500F86DDC /* LaunchScreen.storyboard */; };
+		544B6319240278DE00F86DDC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544B6318240278DE00F86DDC /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		544B630D2402773500F86DDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		544B63102402773500F86DDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		544B63122402773500F86DDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		544B6318240278DE00F86DDC /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				544B63042402773500F86DDC /* AppDelegate.swift */,
 				544B63062402773500F86DDC /* SceneDelegate.swift */,
+				544B6318240278DE00F86DDC /* SecondViewController.swift */,
 				544B63082402773500F86DDC /* ViewController.swift */,
 				544B630A2402773500F86DDC /* Main.storyboard */,
 				544B630D2402773500F86DDC /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				544B6319240278DE00F86DDC /* SecondViewController.swift in Sources */,
 				544B63092402773500F86DDC /* ViewController.swift in Sources */,
 				544B63052402773500F86DDC /* AppDelegate.swift in Sources */,
 				544B63072402773500F86DDC /* SceneDelegate.swift in Sources */,
